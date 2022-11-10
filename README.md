@@ -1,2 +1,2 @@
-# el-enigma-psiquico
+# El-enigma-psiquico
 Encryptor | Encrypton
