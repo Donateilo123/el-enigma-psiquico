@@ -2,6 +2,7 @@
 # Nota:
 # ~ Este programa solo se inicia desde la terminal del windows
 # ~ La funcion de encriptar palabras tovia no esta disponible 
+# ~ Pero si esta disponible la de convertir archivos de texto
 
 #!/usr/bin/env python
 from datetime import datetime 
